@@ -1,21 +1,10 @@
-# ListFilter
+Elixir Ignite Challenge #02
 
-**TODO: Add description**
+This project was made to fulfill the first challenge on the Rocketseat Ignite Elixir course challenge.
 
-## Installation
+The challenge was to implement a function call that uses recursivity to calculate the size of a given array.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `list_filter` to your list of dependencies in `mix.exs`:
+A template repository was given with the unit tests already written, and make this tests pass was part of the challenge.
 
-```elixir
-def deps do
-  [
-    {:list_filter, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/list_filter>.
+To run this code first you need to install all the dependencies with mix deps.get, then you can run the tests with mix test
 
